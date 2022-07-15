@@ -33,6 +33,8 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?tkc-poly-tech=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?tkc-poly-tech=anuraghazra&count_private=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tkc-poly-tech)](https://github.com/tkc-poly-tech/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tkc-poly-tech&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tkc-poly-tech&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tkc-poly-tech&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tkc-poly-tech&show_icons=true&theme=radical)
