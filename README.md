@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <p align="left">
   <a href="https://github.com/tkc-poly-tech">
-    <img src="https://komarev.com/ghpvc/?username=tkc-poly-tech" alt="tkc-poly-tech" />
+    <img height="30" src="https://komarev.com/ghpvc/?username=tkc-poly-tech" alt="tkc-poly-tech" />
   </a>
   <a href="https://twitter.com/tkc_tech">
     <img height="30" src="https://img.shields.io/twitter/follow/tkc_tech?label=Twitter&logo=twitter&style=flat" />
